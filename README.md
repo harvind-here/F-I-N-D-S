@@ -6,7 +6,7 @@ Welcome to F-I-N-D-S, the system designed to recognize whether a given news arti
 - Image analysis
 - Link analysis
 
-This repository is for the Tamil Nadu Coders Premier League Hackathon. Here, you'll find all the information, studies, and reports conducted by TEAM ID: TNcpl053.
+This project is done for the hackathon named Tamil Nadu Coders Premier League(State-Level). Here, you'll find all the information, studies, and reports conducted by,
 
 ## Repository Authors
 
