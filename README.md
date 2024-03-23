@@ -1,8 +1,17 @@
 # F-I-N-D-S - Fake Information and News Detection System
 
-This is the system which recognizes given news article is fake article or not.
-This is achieved by 3 analysis:
-                                Title/Content analysis
-                                Image analysis
-                                Link analysis
-For more information click here
+Welcome to F-I-N-D-S, the system designed to recognize whether a given news article is fake or not. This system achieves its analysis through three main methods:
+
+- Title/Content analysis
+- Image analysis
+- Link analysis
+
+This repository is for the Tamil Nadu Coders Premier League Hackathon. Here, you'll find all the information, studies, and reports conducted by TEAM ID: TNcpl053.
+
+## Repository Authors
+
+- [Harvind Mukhal M](https://github.com/harvind-here)
+- [Karthick T](https://github.com/karthick-t)
+
+For more information, click [here](link-to-more-information).
+
