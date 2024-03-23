@@ -11,7 +11,7 @@ This repository is for the Tamil Nadu Coders Premier League Hackathon. Here, you
 ## Repository Authors
 
 - [Harvind Mukhal M](https://github.com/harvind-here)
-- [Karthick T](https://github.com/karthick-t)
+- [Karthick T](https://github.com/ikarthickthiyagarajan)
 
 For more information, click [here](link-to-more-information).
 
