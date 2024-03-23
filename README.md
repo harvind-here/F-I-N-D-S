@@ -6,9 +6,7 @@ Welcome to F-I-N-D-S, the system designed to recognize whether a given news arti
 - Image analysis
 - Link analysis
 
-This project is done for the hackathon named Tamil Nadu Coders Premier League(State-Level). Here, you'll find all the information, studies, and reports conducted by,
-
-## Repository Authors
+This project is done during the hackathon named Tamil Nadu Coders Premier League(State-Level). Here, you'll find all the information, studies, and reports conducted by,
 
 - [Harvind Mukhal M](https://github.com/harvind-here)
 - [Karthick T](https://github.com/ikarthickthiyagarajan)
