@@ -21,5 +21,5 @@ Welcome to F-I-N-D-S, the system designed to recognize whether a given news arti
 
 ## Model Performance(BERT Fine tuning):
 
-![Screenshot 2024-06-03 140907](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/e6dcfd4f-8781-4c4d-ae8a-f57362225f16)
+![image](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/748fdc7a-93b8-428c-ab7e-ba2b29aeafe3)
 
