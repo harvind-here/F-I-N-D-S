@@ -9,7 +9,6 @@ Welcome to F-I-N-D-S, the system designed to recognize whether a given news arti
 This project is done during the hackathon named Tamil Nadu Coders Premier League(State-Level). Here, you'll find all the information, studies, and reports conducted by,
 
 - [Harvind Mukhal M](https://github.com/harvind-here)
-- [Karthick T](https://github.com/ikarthickthiyagarajan)
 
 ## System Workflow:
 ![image](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/acb6582a-3766-4969-b634-45f3dba0a648)
