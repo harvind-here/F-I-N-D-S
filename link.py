@@ -43,7 +43,7 @@ Here are some example URLs:
 """
 
 # Replace 'YOUR_API_KEY' with your actual VirusTotal API key
-api_key = '3da5e677a3dd1ed9a844e6b5dcc39c8b4e333617cc22de3593b605efb3c12177'
+api_key = 'YOUR API KEY'
 
 # Extract URLs from text content
 urls = extract_urls(text_content)
