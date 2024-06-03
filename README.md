@@ -14,7 +14,12 @@ Welcome to F-I-N-D-S, the system designed to recognize whether a given news arti
 
 ![image](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/4af3dfb5-781d-4194-b64c-05b53ecc85b8)
 
-## Model Performance:
+## Model Performance(ML):
 ![image](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/00c92a41-a3de-4069-8bd5-239534340736)
 
 ![image](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/a53b63ca-f617-411f-9c6c-2396b9fd8c54)
+
+## Model Performance(BERT Fine tuning):
+
+![Screenshot 2024-06-03 140907](https://github.com/harvind-here/F-I-N-D-S/assets/138276429/e6dcfd4f-8781-4c4d-ae8a-f57362225f16)
+
